@@ -1,4 +1,4 @@
-<mxfile modified="2019-10-31T06:57:49.440Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="gRX5bV5LVHhNl1_4URnq" version="12.1.9" type="github" pages="2">
+<mxfile modified="2019-10-31T06:58:54.810Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="c4A3U_GK1nHB2wOD2Q97" version="12.1.9" type="github" pages="2">
   <diagram name="위험단어" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1422" dy="795" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -145,7 +145,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="h5OtPM2n08AeqgdCQOv6" name="실패의심 컨텐츠">
-    <mxGraphModel dx="1185" dy="663" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="795" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="3esrChGUVjocIgXQ-gZ4-0"/>
         <mxCell id="3esrChGUVjocIgXQ-gZ4-1" parent="3esrChGUVjocIgXQ-gZ4-0"/>
@@ -267,7 +267,7 @@
           <mxGeometry x="340.5" y="625.5" width="100" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="Pp3vwaVYBHKoFkX73i0J-18" value="평가점수가 1점 혹은 2점인가?" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontFamily=Tahoma;fontSize=9;" vertex="1" parent="jahqhl8VbFO5xxWAI4NQ-1">
-          <mxGeometry x="515" y="625.5" width="100" height="60" as="geometry"/>
+          <mxGeometry x="490" y="625.5" width="100" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="Pp3vwaVYBHKoFkX73i0J-19" value="예" style="endArrow=classic;html=1;entryX=-0.005;entryY=0.499;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.995;exitY=0.499;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="jahqhl8VbFO5xxWAI4NQ-1" source="Pp3vwaVYBHKoFkX73i0J-14" target="Pp3vwaVYBHKoFkX73i0J-18">
           <mxGeometry x="-0.1678" y="15" width="50" height="50" relative="1" as="geometry">
@@ -282,7 +282,7 @@
             <mxPoint x="253" y="594.02" as="targetPoint"/>
             <mxPoint as="offset"/>
             <Array as="points">
-              <mxPoint x="565" y="550"/>
+              <mxPoint x="540" y="550"/>
               <mxPoint x="421" y="550"/>
             </Array>
           </mxGeometry>
@@ -290,11 +290,14 @@
         <mxCell id="Pp3vwaVYBHKoFkX73i0J-22" value="chitchat 성공" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="jahqhl8VbFO5xxWAI4NQ-1">
           <mxGeometry x="555" y="442.5" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="Pp3vwaVYBHKoFkX73i0J-23" value="아니오" style="endArrow=classic;html=1;exitX=0.965;exitY=0.533;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="jahqhl8VbFO5xxWAI4NQ-1" target="Pp3vwaVYBHKoFkX73i0J-22">
+        <mxCell id="Pp3vwaVYBHKoFkX73i0J-23" value="아니오" style="endArrow=classic;html=1;exitX=1;exitY=0.516;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="jahqhl8VbFO5xxWAI4NQ-1">
           <mxGeometry x="-0.1083" y="-25" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="614.5000000000002" y="656.48" as="sourcePoint"/>
-            <mxPoint x="614.4999999999998" y="467" as="targetPoint"/>
+            <mxPoint x="590" y="655.46" as="sourcePoint"/>
+            <mxPoint x="615" y="501.5" as="targetPoint"/>
             <mxPoint as="offset"/>
+            <Array as="points">
+              <mxPoint x="615" y="655"/>
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Pp3vwaVYBHKoFkX73i0J-24" value="맞나요?" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontFamily=Tahoma;fontSize=9;" vertex="1" parent="jahqhl8VbFO5xxWAI4NQ-1">
@@ -308,7 +311,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Pp3vwaVYBHKoFkX73i0J-29" value="클래식 성공" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="jahqhl8VbFO5xxWAI4NQ-1">
-          <mxGeometry x="20" y="468" width="120" height="60" as="geometry"/>
+          <mxGeometry x="20" y="625.5" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="Pp3vwaVYBHKoFkX73i0J-30" value="예" style="endArrow=classic;html=1;exitX=0.497;exitY=0.982;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="jahqhl8VbFO5xxWAI4NQ-1" source="Pp3vwaVYBHKoFkX73i0J-24" target="Pp3vwaVYBHKoFkX73i0J-29">
           <mxGeometry x="-0.2105" y="13" width="50" height="50" relative="1" as="geometry">
