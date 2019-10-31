@@ -1,4 +1,4 @@
-<mxfile modified="2019-10-31T06:57:15.882Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="YalpPpHpJcyDOgUeMlsc" version="12.1.9" type="github" pages="2">
+<mxfile modified="2019-10-31T06:57:49.440Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="gRX5bV5LVHhNl1_4URnq" version="12.1.9" type="github" pages="2">
   <diagram name="위험단어" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1422" dy="795" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -253,25 +253,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pp3vwaVYBHKoFkX73i0J-11" value="chitchat 성공" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="jahqhl8VbFO5xxWAI4NQ-1">
-          <mxGeometry x="135" y="625.5" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="Pp3vwaVYBHKoFkX73i0J-13" value="아니오" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.509;exitY=0.986;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="jahqhl8VbFO5xxWAI4NQ-1" source="Pp3vwaVYBHKoFkX73i0J-4" target="Pp3vwaVYBHKoFkX73i0J-11">
-          <mxGeometry x="-0.3258" y="27" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="Pp3vwaVYBHKoFkX73i0J-13" value="아니오" style="endArrow=classic;html=1;entryX=0.003;entryY=0.497;entryDx=0;entryDy=0;exitX=0.509;exitY=0.986;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="jahqhl8VbFO5xxWAI4NQ-1" source="Pp3vwaVYBHKoFkX73i0J-4" target="Pp3vwaVYBHKoFkX73i0J-14">
+          <mxGeometry x="-0.4923" y="23" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="278" y="587" as="sourcePoint"/>
-            <mxPoint x="210.5" y="329" as="targetPoint"/>
+            <mxPoint x="195" y="625.5" as="targetPoint"/>
             <mxPoint as="offset"/>
+            <Array as="points">
+              <mxPoint x="196" y="655"/>
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Pp3vwaVYBHKoFkX73i0J-14" value="해결되셨나요?" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontFamily=Tahoma;fontSize=9;" vertex="1" parent="jahqhl8VbFO5xxWAI4NQ-1">
           <mxGeometry x="340.5" y="625.5" width="100" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="Pp3vwaVYBHKoFkX73i0J-16" value="예" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.035;entryY=0.517;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jahqhl8VbFO5xxWAI4NQ-1" source="Pp3vwaVYBHKoFkX73i0J-11" target="Pp3vwaVYBHKoFkX73i0J-14">
-          <mxGeometry x="-0.1946" y="14" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="88" y="416.98" as="sourcePoint"/>
-            <mxPoint x="89.27728258251022" y="470" as="targetPoint"/>
-            <mxPoint as="offset"/>
-          </mxGeometry>
         </mxCell>
         <mxCell id="Pp3vwaVYBHKoFkX73i0J-18" value="평가점수가 1점 혹은 2점인가?" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontFamily=Tahoma;fontSize=9;" vertex="1" parent="jahqhl8VbFO5xxWAI4NQ-1">
           <mxGeometry x="515" y="625.5" width="100" height="60" as="geometry"/>
