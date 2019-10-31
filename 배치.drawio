@@ -1,4 +1,4 @@
-<mxfile modified="2019-10-31T06:48:14.796Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="tDJlU4XEzJ_ai7Xuj6oT" version="12.1.9" type="github" pages="2">
+<mxfile modified="2019-10-31T06:50:14.023Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="XpZCt04Ft_8QxQB6-Z64" version="12.1.9" type="github" pages="2">
   <diagram name="위험단어" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1422" dy="795" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -211,7 +211,7 @@
           <mxGeometry x="144" y="408" width="100" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="Pp3vwaVYBHKoFkX73i0J-4" value="Search 중에&lt;br&gt;비슷한 증상이 없습니다를 선택하였는가?" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontFamily=Tahoma;fontSize=9;" vertex="1" parent="jahqhl8VbFO5xxWAI4NQ-1">
-          <mxGeometry x="220.5" y="519" width="100" height="60" as="geometry"/>
+          <mxGeometry x="145" y="522.5" width="100" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="Pp3vwaVYBHKoFkX73i0J-5" value="학습중입니다" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jahqhl8VbFO5xxWAI4NQ-1">
           <mxGeometry x="236.5" y="331" width="120" height="60" as="geometry"/>
@@ -226,10 +226,10 @@
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pp3vwaVYBHKoFkX73i0J-7" value="Y" style="endArrow=classic;html=1;exitX=0.56;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.485;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jahqhl8VbFO5xxWAI4NQ-1" source="Pp3vwaVYBHKoFkX73i0J-2" target="Pp3vwaVYBHKoFkX73i0J-4">
+        <mxCell id="Pp3vwaVYBHKoFkX73i0J-7" value="Y" style="endArrow=classic;html=1;entryX=0.499;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="jahqhl8VbFO5xxWAI4NQ-1" target="Pp3vwaVYBHKoFkX73i0J-4">
           <mxGeometry x="-0.9233" y="10" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150.29999999999995" y="318.5799999999999" as="sourcePoint"/>
-            <mxPoint x="352.3800000000001" y="318.3399999999999" as="targetPoint"/>
+            <mxPoint x="195" y="468" as="sourcePoint"/>
+            <mxPoint x="270" y="519" as="targetPoint"/>
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
@@ -254,11 +254,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Pp3vwaVYBHKoFkX73i0J-11" value="chitchat 성공" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jahqhl8VbFO5xxWAI4NQ-1">
-          <mxGeometry x="151" y="631" width="120" height="60" as="geometry"/>
+          <mxGeometry x="135" y="625.5" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="Pp3vwaVYBHKoFkX73i0J-13" value="n" style="endArrow=classic;html=1;exitX=0.48;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="jahqhl8VbFO5xxWAI4NQ-1" source="Pp3vwaVYBHKoFkX73i0J-4" target="Pp3vwaVYBHKoFkX73i0J-11">
+        <mxCell id="Pp3vwaVYBHKoFkX73i0J-13" value="n" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.509;exitY=0.986;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="jahqhl8VbFO5xxWAI4NQ-1" source="Pp3vwaVYBHKoFkX73i0J-4" target="Pp3vwaVYBHKoFkX73i0J-11">
           <mxGeometry x="-0.9233" y="10" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="137" y="389.98" as="sourcePoint"/>
+            <mxPoint x="278" y="587" as="sourcePoint"/>
             <mxPoint x="210.5" y="329" as="targetPoint"/>
             <mxPoint as="offset"/>
           </mxGeometry>
